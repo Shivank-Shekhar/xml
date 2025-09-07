@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Say voice="man" language="hi-IN">Shivank this side... How are you??</Say>
+    <Say voice="man" language="hi-IN">Namaste! This is a test call.</Say>
 </Response>
